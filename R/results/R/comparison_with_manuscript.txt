@@ -1,0 +1,46 @@
+=== Simulation: overall ARI over all held-out simulated data sets ===
+R-UPGMA       R mean 0.569 (MC s.e. 0.003)   manuscript 0.568   difference +0.001   failure R 44.0% / manuscript 44.1%
+W-UPGMA       R mean 0.270 (MC s.e. 0.003)   manuscript 0.269   difference +0.001   failure R 73.0% / manuscript 73.0%
+UPGMA         R mean 0.270 (MC s.e. 0.003)   manuscript 0.269   difference +0.001   failure R 74.3% / manuscript 74.2%
+UPGMA+cut     R mean 0.477 (MC s.e. 0.003)   manuscript 0.477   difference -0.000   failure R 54.9% / manuscript 54.9%
+Complete      R mean 0.251 (MC s.e. 0.002)   manuscript 0.251   difference +0.000   failure R 81.4% / manuscript 81.1%
+Complete+cut  R mean 0.340 (MC s.e. 0.002)   manuscript 0.340   difference -0.000   failure R 73.3% / manuscript 73.2%
+PAM           R mean 0.440 (MC s.e. 0.002)   manuscript 0.441   difference -0.000   failure R 59.6% / manuscript 59.9%
+HDBSCAN       R mean 0.141 (MC s.e. 0.002)   manuscript 0.141   difference -0.000   failure R 87.3% / manuscript 87.4%
+Single        R mean 0.023 (MC s.e. 0.001)   manuscript 0.023   difference +0.000   failure R 97.6% / manuscript 97.7%
+
+=== Benchmarks: number of the 60 data set x setting combinations in which each method was best or tied ===
+R-UPGMA 38, W-UPGMA 8, UPGMA 8, UPGMA+cut 22, Complete 4, Complete+cut 5, PAM 13, HDBSCAN 14
+(Python: R-UPGMA 39, UPGMA+cut 19, HDBSCAN 15, PAM 13, UPGMA 8, W-UPGMA 8, Complete+cut 4, Complete 3)
+clean data, R-UPGMA      : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, W-UPGMA      : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, UPGMA        : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, UPGMA+cut    : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, Complete     : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, Complete+cut : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, PAM          : 13 of 13 deterministic data sets identical to manuscript (max |diff| 0.005)
+clean data, HDBSCAN      : 10 of 13 deterministic data sets identical to manuscript (max |diff| 0.024)
+
+=== Null data (Table 7) ===
+           dataset       setting   dip_p largest smallest   sil reject_raw
+ B3-well (control)         clean 0.0e+00    0.34     0.33 0.508       0.98
+          GolfBall         clean 9.9e-01    0.44     0.23 0.271       0.00
+   Hepta (control)         clean 0.0e+00    0.59     0.14 0.363       1.00
+        NULL-Gauss         clean 1.0e+00    0.65     0.11 0.138       0.00
+         NULL-Unif         clean 1.0e+00    0.49     0.18 0.137       0.00
+ B3-well (control) salt_pepper10 0.0e+00    0.34     0.33 0.502       0.96
+          GolfBall salt_pepper10 5.5e-05    0.45     0.23 0.260       1.00
+   Hepta (control) salt_pepper10 0.0e+00    0.59     0.14 0.361       1.00
+        NULL-Gauss salt_pepper10 1.3e-01    0.66     0.13 0.109       0.01
+         NULL-Unif salt_pepper10 5.9e-02    0.55     0.15 0.099       0.30
+ reject_win
+       0.98
+       0.00
+       1.00
+       0.65
+       0.00
+       1.00
+       1.00
+       1.00
+       1.00
+       1.00
