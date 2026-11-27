@@ -1,0 +1,10 @@
+corruption,R-UPGMA,w/o Step 1 (triangle),w/o Step 2 (MADn bounds),w/o Step 3 (trimming),w/o Step 4 (cut)
+none,0.635,0.635,0.637,0.629,0.477
+salt_pepper,0.485,0.205,0.447,0.484,0.346
+amplification,0.6,0.607,0.548,0.602,0.449
+mixed,0.486,0.446,0.455,0.485,0.347
+gaussian,0.635,0.633,0.635,0.633,0.478
+structured,0.547,0.577,0.495,0.545,0.401
+row,0.632,0.632,0.632,0.614,0.456
+all (mean),0.568,0.523,0.541,0.564,0.416
+all (failure rate),0.439,0.508,0.47,0.442,0.562

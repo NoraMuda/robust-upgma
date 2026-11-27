@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "robust-upgma"
+version = "2.0.0"
+description = "Robust UPGMA: average-linkage hierarchical clustering for corrupted dissimilarity matrices"
+readme = "../README.md"
+license = { text = "MIT" }
+authors = [{ name = "Nora Muda" }]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.22", "scipy>=1.9"]
+
+[project.optional-dependencies]
+experiments = ["pandas>=1.5", "scikit-learn>=1.3", "kmedoids>=0.5", "diptest>=0.8",
+               "matplotlib>=3.6", "rdata>=0.11"]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["robust_upgma"]

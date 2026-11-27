@@ -1,0 +1,612 @@
+"case","method","agreement_ARI","step12_rel_diff"
+"sim000_B3_well_none_0.0","R-UPGMA",1,0
+"sim000_B3_well_none_0.0","W-UPGMA",1,0
+"sim000_B3_well_none_0.0","UPGMA",1,0
+"sim000_B3_well_none_0.0","UPGMA+cut",1,0
+"sim000_B3_well_none_0.0","Single",1,0
+"sim000_B3_well_none_0.0","Complete",1,0
+"sim000_B3_well_none_0.0","Complete+cut",1,0
+"sim000_B3_well_none_0.0","PAM",1,0
+"sim000_B3_well_none_0.0","HDBSCAN",1,0
+"sim000_B3_well_none_0.0","w/o Step 1 (triangle)",1,0
+"sim000_B3_well_none_0.0","w/o Step 2 (MADn bounds)",1,0
+"sim000_B3_well_none_0.0","w/o Step 3 (trimming)",1,0
+"sim000_B3_well_none_0.0","w/o Step 4 (cut)",1,0
+"sim004_B3_well_amplification_0.05","R-UPGMA",1,0
+"sim004_B3_well_amplification_0.05","W-UPGMA",1,0
+"sim004_B3_well_amplification_0.05","UPGMA",1,0
+"sim004_B3_well_amplification_0.05","UPGMA+cut",1,0
+"sim004_B3_well_amplification_0.05","Single",1,0
+"sim004_B3_well_amplification_0.05","Complete",1,0
+"sim004_B3_well_amplification_0.05","Complete+cut",1,0
+"sim004_B3_well_amplification_0.05","PAM",1,0
+"sim004_B3_well_amplification_0.05","HDBSCAN",0.981028755428151,0
+"sim004_B3_well_amplification_0.05","w/o Step 1 (triangle)",1,0
+"sim004_B3_well_amplification_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim004_B3_well_amplification_0.05","w/o Step 3 (trimming)",1,0
+"sim004_B3_well_amplification_0.05","w/o Step 4 (cut)",1,0
+"sim008_B3_well_mixed_0.1","R-UPGMA",1,0
+"sim008_B3_well_mixed_0.1","W-UPGMA",1,0
+"sim008_B3_well_mixed_0.1","UPGMA",1,0
+"sim008_B3_well_mixed_0.1","UPGMA+cut",1,0
+"sim008_B3_well_mixed_0.1","Single",1,0
+"sim008_B3_well_mixed_0.1","Complete",1,0
+"sim008_B3_well_mixed_0.1","Complete+cut",1,0
+"sim008_B3_well_mixed_0.1","PAM",1,0
+"sim008_B3_well_mixed_0.1","HDBSCAN",1,0
+"sim008_B3_well_mixed_0.1","w/o Step 1 (triangle)",1,0
+"sim008_B3_well_mixed_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim008_B3_well_mixed_0.1","w/o Step 3 (trimming)",1,0
+"sim008_B3_well_mixed_0.1","w/o Step 4 (cut)",1,0
+"sim012_B3_well_gaussian_0.2","R-UPGMA",1,0
+"sim012_B3_well_gaussian_0.2","W-UPGMA",1,0
+"sim012_B3_well_gaussian_0.2","UPGMA",1,0
+"sim012_B3_well_gaussian_0.2","UPGMA+cut",1,0
+"sim012_B3_well_gaussian_0.2","Single",1,0
+"sim012_B3_well_gaussian_0.2","Complete",1,0
+"sim012_B3_well_gaussian_0.2","Complete+cut",1,0
+"sim012_B3_well_gaussian_0.2","PAM",1,0
+"sim012_B3_well_gaussian_0.2","HDBSCAN",1,0
+"sim012_B3_well_gaussian_0.2","w/o Step 1 (triangle)",1,0
+"sim012_B3_well_gaussian_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim012_B3_well_gaussian_0.2","w/o Step 3 (trimming)",1,0
+"sim012_B3_well_gaussian_0.2","w/o Step 4 (cut)",1,0
+"sim016_B3_well_structured_0.05","R-UPGMA",1,0
+"sim016_B3_well_structured_0.05","W-UPGMA",1,0
+"sim016_B3_well_structured_0.05","UPGMA",1,0
+"sim016_B3_well_structured_0.05","UPGMA+cut",1,0
+"sim016_B3_well_structured_0.05","Single",1,0
+"sim016_B3_well_structured_0.05","Complete",1,0
+"sim016_B3_well_structured_0.05","Complete+cut",1,0
+"sim016_B3_well_structured_0.05","PAM",1,0
+"sim016_B3_well_structured_0.05","HDBSCAN",0.453530249398639,0
+"sim016_B3_well_structured_0.05","w/o Step 1 (triangle)",1,0
+"sim016_B3_well_structured_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim016_B3_well_structured_0.05","w/o Step 3 (trimming)",1,0
+"sim016_B3_well_structured_0.05","w/o Step 4 (cut)",1,0
+"sim020_B3_moderate_salt_pepper_0.05","R-UPGMA",1,0
+"sim020_B3_moderate_salt_pepper_0.05","W-UPGMA",1,0
+"sim020_B3_moderate_salt_pepper_0.05","UPGMA",1,0
+"sim020_B3_moderate_salt_pepper_0.05","UPGMA+cut",1,0
+"sim020_B3_moderate_salt_pepper_0.05","Single",1,0
+"sim020_B3_moderate_salt_pepper_0.05","Complete",1,0
+"sim020_B3_moderate_salt_pepper_0.05","Complete+cut",1,0
+"sim020_B3_moderate_salt_pepper_0.05","PAM",1,0
+"sim020_B3_moderate_salt_pepper_0.05","HDBSCAN",1,0
+"sim020_B3_moderate_salt_pepper_0.05","w/o Step 1 (triangle)",1,0
+"sim020_B3_moderate_salt_pepper_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim020_B3_moderate_salt_pepper_0.05","w/o Step 3 (trimming)",1,0
+"sim020_B3_moderate_salt_pepper_0.05","w/o Step 4 (cut)",1,0
+"sim024_B3_moderate_amplification_0.1","R-UPGMA",1,0
+"sim024_B3_moderate_amplification_0.1","W-UPGMA",1,0
+"sim024_B3_moderate_amplification_0.1","UPGMA",1,0
+"sim024_B3_moderate_amplification_0.1","UPGMA+cut",1,0
+"sim024_B3_moderate_amplification_0.1","Single",1,0
+"sim024_B3_moderate_amplification_0.1","Complete",1,0
+"sim024_B3_moderate_amplification_0.1","Complete+cut",1,0
+"sim024_B3_moderate_amplification_0.1","PAM",1,0
+"sim024_B3_moderate_amplification_0.1","HDBSCAN",0.987536400958721,0
+"sim024_B3_moderate_amplification_0.1","w/o Step 1 (triangle)",1,0
+"sim024_B3_moderate_amplification_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim024_B3_moderate_amplification_0.1","w/o Step 3 (trimming)",1,0
+"sim024_B3_moderate_amplification_0.1","w/o Step 4 (cut)",1,0
+"sim028_B3_moderate_mixed_0.2","R-UPGMA",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","W-UPGMA",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","UPGMA",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","UPGMA+cut",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","Single",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","Complete",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","Complete+cut",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","PAM",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","HDBSCAN",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","w/o Step 1 (triangle)",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","w/o Step 2 (MADn bounds)",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","w/o Step 3 (trimming)",1,1.46108819604742e-16
+"sim028_B3_moderate_mixed_0.2","w/o Step 4 (cut)",1,1.46108819604742e-16
+"sim032_B3_moderate_row_0.05","R-UPGMA",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","W-UPGMA",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","UPGMA",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","UPGMA+cut",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","Single",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","Complete",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","Complete+cut",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","PAM",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","HDBSCAN",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","w/o Step 1 (triangle)",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","w/o Step 2 (MADn bounds)",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","w/o Step 3 (trimming)",1,1.35651884557829e-16
+"sim032_B3_moderate_row_0.05","w/o Step 4 (cut)",1,1.35651884557829e-16
+"sim036_B3_moderate_structured_0.1","R-UPGMA",1,0
+"sim036_B3_moderate_structured_0.1","W-UPGMA",1,0
+"sim036_B3_moderate_structured_0.1","UPGMA",1,0
+"sim036_B3_moderate_structured_0.1","UPGMA+cut",1,0
+"sim036_B3_moderate_structured_0.1","Single",1,0
+"sim036_B3_moderate_structured_0.1","Complete",1,0
+"sim036_B3_moderate_structured_0.1","Complete+cut",1,0
+"sim036_B3_moderate_structured_0.1","PAM",1,0
+"sim036_B3_moderate_structured_0.1","HDBSCAN",1,0
+"sim036_B3_moderate_structured_0.1","w/o Step 1 (triangle)",1,0
+"sim036_B3_moderate_structured_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim036_B3_moderate_structured_0.1","w/o Step 3 (trimming)",1,0
+"sim036_B3_moderate_structured_0.1","w/o Step 4 (cut)",1,0
+"sim040_B3_overlap_salt_pepper_0.1","R-UPGMA",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","W-UPGMA",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","UPGMA",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","UPGMA+cut",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","Single",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","Complete",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","Complete+cut",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","PAM",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","HDBSCAN",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","w/o Step 1 (triangle)",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","w/o Step 2 (MADn bounds)",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","w/o Step 3 (trimming)",1,1.84237629852439e-16
+"sim040_B3_overlap_salt_pepper_0.1","w/o Step 4 (cut)",1,1.84237629852439e-16
+"sim044_B3_overlap_amplification_0.2","R-UPGMA",1,0
+"sim044_B3_overlap_amplification_0.2","W-UPGMA",1,0
+"sim044_B3_overlap_amplification_0.2","UPGMA",1,0
+"sim044_B3_overlap_amplification_0.2","UPGMA+cut",1,0
+"sim044_B3_overlap_amplification_0.2","Single",1,0
+"sim044_B3_overlap_amplification_0.2","Complete",1,0
+"sim044_B3_overlap_amplification_0.2","Complete+cut",1,0
+"sim044_B3_overlap_amplification_0.2","PAM",1,0
+"sim044_B3_overlap_amplification_0.2","HDBSCAN",1,0
+"sim044_B3_overlap_amplification_0.2","w/o Step 1 (triangle)",1,0
+"sim044_B3_overlap_amplification_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim044_B3_overlap_amplification_0.2","w/o Step 3 (trimming)",1,0
+"sim044_B3_overlap_amplification_0.2","w/o Step 4 (cut)",1,0
+"sim048_B3_overlap_gaussian_0.05","R-UPGMA",1,0
+"sim048_B3_overlap_gaussian_0.05","W-UPGMA",1,0
+"sim048_B3_overlap_gaussian_0.05","UPGMA",1,0
+"sim048_B3_overlap_gaussian_0.05","UPGMA+cut",1,0
+"sim048_B3_overlap_gaussian_0.05","Single",1,0
+"sim048_B3_overlap_gaussian_0.05","Complete",1,0
+"sim048_B3_overlap_gaussian_0.05","Complete+cut",1,0
+"sim048_B3_overlap_gaussian_0.05","PAM",1,0
+"sim048_B3_overlap_gaussian_0.05","HDBSCAN",1,0
+"sim048_B3_overlap_gaussian_0.05","w/o Step 1 (triangle)",1,0
+"sim048_B3_overlap_gaussian_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim048_B3_overlap_gaussian_0.05","w/o Step 3 (trimming)",1,0
+"sim048_B3_overlap_gaussian_0.05","w/o Step 4 (cut)",1,0
+"sim052_B3_overlap_row_0.1","R-UPGMA",1,0
+"sim052_B3_overlap_row_0.1","W-UPGMA",1,0
+"sim052_B3_overlap_row_0.1","UPGMA",1,0
+"sim052_B3_overlap_row_0.1","UPGMA+cut",1,0
+"sim052_B3_overlap_row_0.1","Single",1,0
+"sim052_B3_overlap_row_0.1","Complete",1,0
+"sim052_B3_overlap_row_0.1","Complete+cut",1,0
+"sim052_B3_overlap_row_0.1","PAM",1,0
+"sim052_B3_overlap_row_0.1","HDBSCAN",1,0
+"sim052_B3_overlap_row_0.1","w/o Step 1 (triangle)",1,0
+"sim052_B3_overlap_row_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim052_B3_overlap_row_0.1","w/o Step 3 (trimming)",1,0
+"sim052_B3_overlap_row_0.1","w/o Step 4 (cut)",1,0
+"sim056_B3_overlap_structured_0.2","R-UPGMA",1,0
+"sim056_B3_overlap_structured_0.2","W-UPGMA",1,0
+"sim056_B3_overlap_structured_0.2","UPGMA",1,0
+"sim056_B3_overlap_structured_0.2","UPGMA+cut",1,0
+"sim056_B3_overlap_structured_0.2","Single",1,0
+"sim056_B3_overlap_structured_0.2","Complete",1,0
+"sim056_B3_overlap_structured_0.2","Complete+cut",1,0
+"sim056_B3_overlap_structured_0.2","PAM",1,0
+"sim056_B3_overlap_structured_0.2","HDBSCAN",1,0
+"sim056_B3_overlap_structured_0.2","w/o Step 1 (triangle)",1,0
+"sim056_B3_overlap_structured_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim056_B3_overlap_structured_0.2","w/o Step 3 (trimming)",1,0
+"sim056_B3_overlap_structured_0.2","w/o Step 4 (cut)",1,0
+"sim060_U4_well_salt_pepper_0.2","R-UPGMA",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","W-UPGMA",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","UPGMA",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","UPGMA+cut",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","Single",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","Complete",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","Complete+cut",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","PAM",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","HDBSCAN",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","w/o Step 1 (triangle)",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","w/o Step 2 (MADn bounds)",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","w/o Step 3 (trimming)",1,1.28719930698374e-16
+"sim060_U4_well_salt_pepper_0.2","w/o Step 4 (cut)",1,1.28719930698374e-16
+"sim064_U4_well_mixed_0.05","R-UPGMA",1,0
+"sim064_U4_well_mixed_0.05","W-UPGMA",1,0
+"sim064_U4_well_mixed_0.05","UPGMA",1,0
+"sim064_U4_well_mixed_0.05","UPGMA+cut",1,0
+"sim064_U4_well_mixed_0.05","Single",1,0
+"sim064_U4_well_mixed_0.05","Complete",1,0
+"sim064_U4_well_mixed_0.05","Complete+cut",1,0
+"sim064_U4_well_mixed_0.05","PAM",1,0
+"sim064_U4_well_mixed_0.05","HDBSCAN",1,0
+"sim064_U4_well_mixed_0.05","w/o Step 1 (triangle)",1,0
+"sim064_U4_well_mixed_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim064_U4_well_mixed_0.05","w/o Step 3 (trimming)",1,0
+"sim064_U4_well_mixed_0.05","w/o Step 4 (cut)",1,0
+"sim068_U4_well_gaussian_0.1","R-UPGMA",1,0
+"sim068_U4_well_gaussian_0.1","W-UPGMA",1,0
+"sim068_U4_well_gaussian_0.1","UPGMA",1,0
+"sim068_U4_well_gaussian_0.1","UPGMA+cut",1,0
+"sim068_U4_well_gaussian_0.1","Single",1,0
+"sim068_U4_well_gaussian_0.1","Complete",1,0
+"sim068_U4_well_gaussian_0.1","Complete+cut",1,0
+"sim068_U4_well_gaussian_0.1","PAM",1,0
+"sim068_U4_well_gaussian_0.1","HDBSCAN",1,0
+"sim068_U4_well_gaussian_0.1","w/o Step 1 (triangle)",1,0
+"sim068_U4_well_gaussian_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim068_U4_well_gaussian_0.1","w/o Step 3 (trimming)",1,0
+"sim068_U4_well_gaussian_0.1","w/o Step 4 (cut)",1,0
+"sim072_U4_well_row_0.2","R-UPGMA",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","W-UPGMA",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","UPGMA",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","UPGMA+cut",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","Single",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","Complete",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","Complete+cut",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","PAM",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","HDBSCAN",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","w/o Step 1 (triangle)",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","w/o Step 2 (MADn bounds)",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","w/o Step 3 (trimming)",1,1.2914776590543e-16
+"sim072_U4_well_row_0.2","w/o Step 4 (cut)",1,1.2914776590543e-16
+"sim076_U4_moderate_none_0.0","R-UPGMA",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","W-UPGMA",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","UPGMA",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","UPGMA+cut",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","Single",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","Complete",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","Complete+cut",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","PAM",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","HDBSCAN",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","w/o Step 1 (triangle)",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","w/o Step 2 (MADn bounds)",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","w/o Step 3 (trimming)",1,1.7684606110434e-16
+"sim076_U4_moderate_none_0.0","w/o Step 4 (cut)",1,1.7684606110434e-16
+"sim080_U4_moderate_amplification_0.05","R-UPGMA",1,0
+"sim080_U4_moderate_amplification_0.05","W-UPGMA",1,0
+"sim080_U4_moderate_amplification_0.05","UPGMA",1,0
+"sim080_U4_moderate_amplification_0.05","UPGMA+cut",1,0
+"sim080_U4_moderate_amplification_0.05","Single",1,0
+"sim080_U4_moderate_amplification_0.05","Complete",1,0
+"sim080_U4_moderate_amplification_0.05","Complete+cut",1,0
+"sim080_U4_moderate_amplification_0.05","PAM",1,0
+"sim080_U4_moderate_amplification_0.05","HDBSCAN",0.991226881263185,0
+"sim080_U4_moderate_amplification_0.05","w/o Step 1 (triangle)",1,0
+"sim080_U4_moderate_amplification_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim080_U4_moderate_amplification_0.05","w/o Step 3 (trimming)",1,0
+"sim080_U4_moderate_amplification_0.05","w/o Step 4 (cut)",1,0
+"sim084_U4_moderate_mixed_0.1","R-UPGMA",1,0
+"sim084_U4_moderate_mixed_0.1","W-UPGMA",1,0
+"sim084_U4_moderate_mixed_0.1","UPGMA",1,0
+"sim084_U4_moderate_mixed_0.1","UPGMA+cut",1,0
+"sim084_U4_moderate_mixed_0.1","Single",1,0
+"sim084_U4_moderate_mixed_0.1","Complete",1,0
+"sim084_U4_moderate_mixed_0.1","Complete+cut",1,0
+"sim084_U4_moderate_mixed_0.1","PAM",1,0
+"sim084_U4_moderate_mixed_0.1","HDBSCAN",1,0
+"sim084_U4_moderate_mixed_0.1","w/o Step 1 (triangle)",1,0
+"sim084_U4_moderate_mixed_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim084_U4_moderate_mixed_0.1","w/o Step 3 (trimming)",1,0
+"sim084_U4_moderate_mixed_0.1","w/o Step 4 (cut)",1,0
+"sim088_U4_moderate_gaussian_0.2","R-UPGMA",1,0
+"sim088_U4_moderate_gaussian_0.2","W-UPGMA",1,0
+"sim088_U4_moderate_gaussian_0.2","UPGMA",1,0
+"sim088_U4_moderate_gaussian_0.2","UPGMA+cut",1,0
+"sim088_U4_moderate_gaussian_0.2","Single",1,0
+"sim088_U4_moderate_gaussian_0.2","Complete",1,0
+"sim088_U4_moderate_gaussian_0.2","Complete+cut",1,0
+"sim088_U4_moderate_gaussian_0.2","PAM",1,0
+"sim088_U4_moderate_gaussian_0.2","HDBSCAN",1,0
+"sim088_U4_moderate_gaussian_0.2","w/o Step 1 (triangle)",1,0
+"sim088_U4_moderate_gaussian_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim088_U4_moderate_gaussian_0.2","w/o Step 3 (trimming)",1,0
+"sim088_U4_moderate_gaussian_0.2","w/o Step 4 (cut)",1,0
+"sim092_U4_moderate_structured_0.05","R-UPGMA",1,0
+"sim092_U4_moderate_structured_0.05","W-UPGMA",1,0
+"sim092_U4_moderate_structured_0.05","UPGMA",1,0
+"sim092_U4_moderate_structured_0.05","UPGMA+cut",1,0
+"sim092_U4_moderate_structured_0.05","Single",1,0
+"sim092_U4_moderate_structured_0.05","Complete",1,0
+"sim092_U4_moderate_structured_0.05","Complete+cut",1,0
+"sim092_U4_moderate_structured_0.05","PAM",1,0
+"sim092_U4_moderate_structured_0.05","HDBSCAN",1,0
+"sim092_U4_moderate_structured_0.05","w/o Step 1 (triangle)",1,0
+"sim092_U4_moderate_structured_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim092_U4_moderate_structured_0.05","w/o Step 3 (trimming)",1,0
+"sim092_U4_moderate_structured_0.05","w/o Step 4 (cut)",1,0
+"sim096_U4_overlap_salt_pepper_0.05","R-UPGMA",1,0
+"sim096_U4_overlap_salt_pepper_0.05","W-UPGMA",1,0
+"sim096_U4_overlap_salt_pepper_0.05","UPGMA",1,0
+"sim096_U4_overlap_salt_pepper_0.05","UPGMA+cut",1,0
+"sim096_U4_overlap_salt_pepper_0.05","Single",1,0
+"sim096_U4_overlap_salt_pepper_0.05","Complete",1,0
+"sim096_U4_overlap_salt_pepper_0.05","Complete+cut",1,0
+"sim096_U4_overlap_salt_pepper_0.05","PAM",1,0
+"sim096_U4_overlap_salt_pepper_0.05","HDBSCAN",1,0
+"sim096_U4_overlap_salt_pepper_0.05","w/o Step 1 (triangle)",1,0
+"sim096_U4_overlap_salt_pepper_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim096_U4_overlap_salt_pepper_0.05","w/o Step 3 (trimming)",1,0
+"sim096_U4_overlap_salt_pepper_0.05","w/o Step 4 (cut)",1,0
+"sim100_U4_overlap_amplification_0.1","R-UPGMA",1,0
+"sim100_U4_overlap_amplification_0.1","W-UPGMA",1,0
+"sim100_U4_overlap_amplification_0.1","UPGMA",1,0
+"sim100_U4_overlap_amplification_0.1","UPGMA+cut",1,0
+"sim100_U4_overlap_amplification_0.1","Single",1,0
+"sim100_U4_overlap_amplification_0.1","Complete",1,0
+"sim100_U4_overlap_amplification_0.1","Complete+cut",1,0
+"sim100_U4_overlap_amplification_0.1","PAM",1,0
+"sim100_U4_overlap_amplification_0.1","HDBSCAN",1,0
+"sim100_U4_overlap_amplification_0.1","w/o Step 1 (triangle)",1,0
+"sim100_U4_overlap_amplification_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim100_U4_overlap_amplification_0.1","w/o Step 3 (trimming)",1,0
+"sim100_U4_overlap_amplification_0.1","w/o Step 4 (cut)",1,0
+"sim104_U4_overlap_mixed_0.2","R-UPGMA",1,0
+"sim104_U4_overlap_mixed_0.2","W-UPGMA",1,0
+"sim104_U4_overlap_mixed_0.2","UPGMA",1,0
+"sim104_U4_overlap_mixed_0.2","UPGMA+cut",1,0
+"sim104_U4_overlap_mixed_0.2","Single",1,0
+"sim104_U4_overlap_mixed_0.2","Complete",1,0
+"sim104_U4_overlap_mixed_0.2","Complete+cut",1,0
+"sim104_U4_overlap_mixed_0.2","PAM",1,0
+"sim104_U4_overlap_mixed_0.2","HDBSCAN",1,0
+"sim104_U4_overlap_mixed_0.2","w/o Step 1 (triangle)",1,0
+"sim104_U4_overlap_mixed_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim104_U4_overlap_mixed_0.2","w/o Step 3 (trimming)",1,0
+"sim104_U4_overlap_mixed_0.2","w/o Step 4 (cut)",1,0
+"sim108_U4_overlap_row_0.05","R-UPGMA",1,0
+"sim108_U4_overlap_row_0.05","W-UPGMA",1,0
+"sim108_U4_overlap_row_0.05","UPGMA",1,0
+"sim108_U4_overlap_row_0.05","UPGMA+cut",1,0
+"sim108_U4_overlap_row_0.05","Single",1,0
+"sim108_U4_overlap_row_0.05","Complete",1,0
+"sim108_U4_overlap_row_0.05","Complete+cut",1,0
+"sim108_U4_overlap_row_0.05","PAM",1,0
+"sim108_U4_overlap_row_0.05","HDBSCAN",1,0
+"sim108_U4_overlap_row_0.05","w/o Step 1 (triangle)",1,0
+"sim108_U4_overlap_row_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim108_U4_overlap_row_0.05","w/o Step 3 (trimming)",1,0
+"sim108_U4_overlap_row_0.05","w/o Step 4 (cut)",1,0
+"sim112_U4_overlap_structured_0.1","R-UPGMA",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","W-UPGMA",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","UPGMA",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","UPGMA+cut",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","Single",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","Complete",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","Complete+cut",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","PAM",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","HDBSCAN",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","w/o Step 1 (triangle)",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","w/o Step 2 (MADn bounds)",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","w/o Step 3 (trimming)",1,1.9123891780758e-16
+"sim112_U4_overlap_structured_0.1","w/o Step 4 (cut)",1,1.9123891780758e-16
+"sim116_H3_well_salt_pepper_0.1","R-UPGMA",1,0
+"sim116_H3_well_salt_pepper_0.1","W-UPGMA",1,0
+"sim116_H3_well_salt_pepper_0.1","UPGMA",1,0
+"sim116_H3_well_salt_pepper_0.1","UPGMA+cut",1,0
+"sim116_H3_well_salt_pepper_0.1","Single",1,0
+"sim116_H3_well_salt_pepper_0.1","Complete",1,0
+"sim116_H3_well_salt_pepper_0.1","Complete+cut",1,0
+"sim116_H3_well_salt_pepper_0.1","PAM",1,0
+"sim116_H3_well_salt_pepper_0.1","HDBSCAN",1,0
+"sim116_H3_well_salt_pepper_0.1","w/o Step 1 (triangle)",1,0
+"sim116_H3_well_salt_pepper_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim116_H3_well_salt_pepper_0.1","w/o Step 3 (trimming)",1,0
+"sim116_H3_well_salt_pepper_0.1","w/o Step 4 (cut)",1,0
+"sim120_H3_well_amplification_0.2","R-UPGMA",1,0
+"sim120_H3_well_amplification_0.2","W-UPGMA",1,0
+"sim120_H3_well_amplification_0.2","UPGMA",1,0
+"sim120_H3_well_amplification_0.2","UPGMA+cut",1,0
+"sim120_H3_well_amplification_0.2","Single",1,0
+"sim120_H3_well_amplification_0.2","Complete",1,0
+"sim120_H3_well_amplification_0.2","Complete+cut",1,0
+"sim120_H3_well_amplification_0.2","PAM",1,0
+"sim120_H3_well_amplification_0.2","HDBSCAN",1,0
+"sim120_H3_well_amplification_0.2","w/o Step 1 (triangle)",1,0
+"sim120_H3_well_amplification_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim120_H3_well_amplification_0.2","w/o Step 3 (trimming)",1,0
+"sim120_H3_well_amplification_0.2","w/o Step 4 (cut)",1,0
+"sim124_H3_well_gaussian_0.05","R-UPGMA",1,0
+"sim124_H3_well_gaussian_0.05","W-UPGMA",1,0
+"sim124_H3_well_gaussian_0.05","UPGMA",1,0
+"sim124_H3_well_gaussian_0.05","UPGMA+cut",1,0
+"sim124_H3_well_gaussian_0.05","Single",1,0
+"sim124_H3_well_gaussian_0.05","Complete",1,0
+"sim124_H3_well_gaussian_0.05","Complete+cut",1,0
+"sim124_H3_well_gaussian_0.05","PAM",1,0
+"sim124_H3_well_gaussian_0.05","HDBSCAN",1,0
+"sim124_H3_well_gaussian_0.05","w/o Step 1 (triangle)",1,0
+"sim124_H3_well_gaussian_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim124_H3_well_gaussian_0.05","w/o Step 3 (trimming)",1,0
+"sim124_H3_well_gaussian_0.05","w/o Step 4 (cut)",1,0
+"sim128_H3_well_row_0.1","R-UPGMA",1,0
+"sim128_H3_well_row_0.1","W-UPGMA",1,0
+"sim128_H3_well_row_0.1","UPGMA",1,0
+"sim128_H3_well_row_0.1","UPGMA+cut",1,0
+"sim128_H3_well_row_0.1","Single",1,0
+"sim128_H3_well_row_0.1","Complete",1,0
+"sim128_H3_well_row_0.1","Complete+cut",1,0
+"sim128_H3_well_row_0.1","PAM",1,0
+"sim128_H3_well_row_0.1","HDBSCAN",1,0
+"sim128_H3_well_row_0.1","w/o Step 1 (triangle)",1,0
+"sim128_H3_well_row_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim128_H3_well_row_0.1","w/o Step 3 (trimming)",1,0
+"sim128_H3_well_row_0.1","w/o Step 4 (cut)",1,0
+"sim132_H3_well_structured_0.2","R-UPGMA",1,0
+"sim132_H3_well_structured_0.2","W-UPGMA",1,0
+"sim132_H3_well_structured_0.2","UPGMA",1,0
+"sim132_H3_well_structured_0.2","UPGMA+cut",1,0
+"sim132_H3_well_structured_0.2","Single",1,0
+"sim132_H3_well_structured_0.2","Complete",1,0
+"sim132_H3_well_structured_0.2","Complete+cut",1,0
+"sim132_H3_well_structured_0.2","PAM",1,0
+"sim132_H3_well_structured_0.2","HDBSCAN",1,0
+"sim132_H3_well_structured_0.2","w/o Step 1 (triangle)",1,0
+"sim132_H3_well_structured_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim132_H3_well_structured_0.2","w/o Step 3 (trimming)",1,0
+"sim132_H3_well_structured_0.2","w/o Step 4 (cut)",1,0
+"sim136_H3_moderate_salt_pepper_0.2","R-UPGMA",1,0
+"sim136_H3_moderate_salt_pepper_0.2","W-UPGMA",1,0
+"sim136_H3_moderate_salt_pepper_0.2","UPGMA",1,0
+"sim136_H3_moderate_salt_pepper_0.2","UPGMA+cut",1,0
+"sim136_H3_moderate_salt_pepper_0.2","Single",1,0
+"sim136_H3_moderate_salt_pepper_0.2","Complete",1,0
+"sim136_H3_moderate_salt_pepper_0.2","Complete+cut",1,0
+"sim136_H3_moderate_salt_pepper_0.2","PAM",1,0
+"sim136_H3_moderate_salt_pepper_0.2","HDBSCAN",1,0
+"sim136_H3_moderate_salt_pepper_0.2","w/o Step 1 (triangle)",1,0
+"sim136_H3_moderate_salt_pepper_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim136_H3_moderate_salt_pepper_0.2","w/o Step 3 (trimming)",1,0
+"sim136_H3_moderate_salt_pepper_0.2","w/o Step 4 (cut)",1,0
+"sim140_H3_moderate_mixed_0.05","R-UPGMA",1,0
+"sim140_H3_moderate_mixed_0.05","W-UPGMA",1,0
+"sim140_H3_moderate_mixed_0.05","UPGMA",1,0
+"sim140_H3_moderate_mixed_0.05","UPGMA+cut",1,0
+"sim140_H3_moderate_mixed_0.05","Single",1,0
+"sim140_H3_moderate_mixed_0.05","Complete",1,0
+"sim140_H3_moderate_mixed_0.05","Complete+cut",1,0
+"sim140_H3_moderate_mixed_0.05","PAM",1,0
+"sim140_H3_moderate_mixed_0.05","HDBSCAN",1,0
+"sim140_H3_moderate_mixed_0.05","w/o Step 1 (triangle)",1,0
+"sim140_H3_moderate_mixed_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim140_H3_moderate_mixed_0.05","w/o Step 3 (trimming)",1,0
+"sim140_H3_moderate_mixed_0.05","w/o Step 4 (cut)",1,0
+"sim144_H3_moderate_gaussian_0.1","R-UPGMA",1,0
+"sim144_H3_moderate_gaussian_0.1","W-UPGMA",1,0
+"sim144_H3_moderate_gaussian_0.1","UPGMA",1,0
+"sim144_H3_moderate_gaussian_0.1","UPGMA+cut",1,0
+"sim144_H3_moderate_gaussian_0.1","Single",1,0
+"sim144_H3_moderate_gaussian_0.1","Complete",1,0
+"sim144_H3_moderate_gaussian_0.1","Complete+cut",1,0
+"sim144_H3_moderate_gaussian_0.1","PAM",1,0
+"sim144_H3_moderate_gaussian_0.1","HDBSCAN",1,0
+"sim144_H3_moderate_gaussian_0.1","w/o Step 1 (triangle)",1,0
+"sim144_H3_moderate_gaussian_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim144_H3_moderate_gaussian_0.1","w/o Step 3 (trimming)",1,0
+"sim144_H3_moderate_gaussian_0.1","w/o Step 4 (cut)",1,0
+"sim148_H3_moderate_row_0.2","R-UPGMA",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","W-UPGMA",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","UPGMA",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","UPGMA+cut",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","Single",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","Complete",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","Complete+cut",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","PAM",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","HDBSCAN",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","w/o Step 1 (triangle)",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","w/o Step 2 (MADn bounds)",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","w/o Step 3 (trimming)",1,1.97998962515845e-16
+"sim148_H3_moderate_row_0.2","w/o Step 4 (cut)",1,1.97998962515845e-16
+"sim152_H3_overlap_none_0.0","R-UPGMA",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","W-UPGMA",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","UPGMA",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","UPGMA+cut",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","Single",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","Complete",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","Complete+cut",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","PAM",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","HDBSCAN",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","w/o Step 1 (triangle)",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","w/o Step 2 (MADn bounds)",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","w/o Step 3 (trimming)",1,1.27458593765954e-16
+"sim152_H3_overlap_none_0.0","w/o Step 4 (cut)",1,1.27458593765954e-16
+"sim156_H3_overlap_amplification_0.05","R-UPGMA",1,0
+"sim156_H3_overlap_amplification_0.05","W-UPGMA",1,0
+"sim156_H3_overlap_amplification_0.05","UPGMA",1,0
+"sim156_H3_overlap_amplification_0.05","UPGMA+cut",1,0
+"sim156_H3_overlap_amplification_0.05","Single",1,0
+"sim156_H3_overlap_amplification_0.05","Complete",1,0
+"sim156_H3_overlap_amplification_0.05","Complete+cut",1,0
+"sim156_H3_overlap_amplification_0.05","PAM",1,0
+"sim156_H3_overlap_amplification_0.05","HDBSCAN",1,0
+"sim156_H3_overlap_amplification_0.05","w/o Step 1 (triangle)",1,0
+"sim156_H3_overlap_amplification_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim156_H3_overlap_amplification_0.05","w/o Step 3 (trimming)",1,0
+"sim156_H3_overlap_amplification_0.05","w/o Step 4 (cut)",1,0
+"sim160_H3_overlap_mixed_0.1","R-UPGMA",1,0
+"sim160_H3_overlap_mixed_0.1","W-UPGMA",1,0
+"sim160_H3_overlap_mixed_0.1","UPGMA",1,0
+"sim160_H3_overlap_mixed_0.1","UPGMA+cut",1,0
+"sim160_H3_overlap_mixed_0.1","Single",1,0
+"sim160_H3_overlap_mixed_0.1","Complete",1,0
+"sim160_H3_overlap_mixed_0.1","Complete+cut",1,0
+"sim160_H3_overlap_mixed_0.1","PAM",1,0
+"sim160_H3_overlap_mixed_0.1","HDBSCAN",1,0
+"sim160_H3_overlap_mixed_0.1","w/o Step 1 (triangle)",1,0
+"sim160_H3_overlap_mixed_0.1","w/o Step 2 (MADn bounds)",1,0
+"sim160_H3_overlap_mixed_0.1","w/o Step 3 (trimming)",1,0
+"sim160_H3_overlap_mixed_0.1","w/o Step 4 (cut)",1,0
+"sim164_H3_overlap_gaussian_0.2","R-UPGMA",1,0
+"sim164_H3_overlap_gaussian_0.2","W-UPGMA",1,0
+"sim164_H3_overlap_gaussian_0.2","UPGMA",1,0
+"sim164_H3_overlap_gaussian_0.2","UPGMA+cut",1,0
+"sim164_H3_overlap_gaussian_0.2","Single",1,0
+"sim164_H3_overlap_gaussian_0.2","Complete",1,0
+"sim164_H3_overlap_gaussian_0.2","Complete+cut",1,0
+"sim164_H3_overlap_gaussian_0.2","PAM",1,0
+"sim164_H3_overlap_gaussian_0.2","HDBSCAN",1,0
+"sim164_H3_overlap_gaussian_0.2","w/o Step 1 (triangle)",1,0
+"sim164_H3_overlap_gaussian_0.2","w/o Step 2 (MADn bounds)",1,0
+"sim164_H3_overlap_gaussian_0.2","w/o Step 3 (trimming)",1,0
+"sim164_H3_overlap_gaussian_0.2","w/o Step 4 (cut)",1,0
+"sim168_H3_overlap_structured_0.05","R-UPGMA",1,0
+"sim168_H3_overlap_structured_0.05","W-UPGMA",1,0
+"sim168_H3_overlap_structured_0.05","UPGMA",1,0
+"sim168_H3_overlap_structured_0.05","UPGMA+cut",1,0
+"sim168_H3_overlap_structured_0.05","Single",1,0
+"sim168_H3_overlap_structured_0.05","Complete",1,0
+"sim168_H3_overlap_structured_0.05","Complete+cut",1,0
+"sim168_H3_overlap_structured_0.05","PAM",1,0
+"sim168_H3_overlap_structured_0.05","HDBSCAN",1,0
+"sim168_H3_overlap_structured_0.05","w/o Step 1 (triangle)",1,0
+"sim168_H3_overlap_structured_0.05","w/o Step 2 (MADn bounds)",1,0
+"sim168_H3_overlap_structured_0.05","w/o Step 3 (trimming)",1,0
+"sim168_H3_overlap_structured_0.05","w/o Step 4 (cut)",1,0
+"bench_Hepta_clean","R-UPGMA",1,1.73752891113984e-16
+"bench_Hepta_clean","W-UPGMA",1,1.73752891113984e-16
+"bench_Hepta_clean","UPGMA",1,1.73752891113984e-16
+"bench_Hepta_clean","UPGMA+cut",1,1.73752891113984e-16
+"bench_Hepta_clean","Single",1,1.73752891113984e-16
+"bench_Hepta_clean","Complete",1,1.73752891113984e-16
+"bench_Hepta_clean","Complete+cut",1,1.73752891113984e-16
+"bench_Hepta_clean","PAM",1,1.73752891113984e-16
+"bench_Hepta_clean","HDBSCAN",1,1.73752891113984e-16
+"bench_Hepta_clean","w/o Step 1 (triangle)",1,1.73752891113984e-16
+"bench_Hepta_clean","w/o Step 2 (MADn bounds)",1,1.73752891113984e-16
+"bench_Hepta_clean","w/o Step 3 (trimming)",1,1.73752891113984e-16
+"bench_Hepta_clean","w/o Step 4 (cut)",1,1.73752891113984e-16
+"bench_Iris_salt_pepper","R-UPGMA",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","W-UPGMA",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","UPGMA",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","UPGMA+cut",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","Single",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","Complete",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","Complete+cut",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","PAM",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","HDBSCAN",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","w/o Step 1 (triangle)",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","w/o Step 2 (MADn bounds)",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","w/o Step 3 (trimming)",1,1.25932011322723e-16
+"bench_Iris_salt_pepper","w/o Step 4 (cut)",1,1.25932011322723e-16
+"bench_Penguins_clean","R-UPGMA",1,0
+"bench_Penguins_clean","W-UPGMA",1,0
+"bench_Penguins_clean","UPGMA",1,0
+"bench_Penguins_clean","UPGMA+cut",1,0
+"bench_Penguins_clean","Single",1,0
+"bench_Penguins_clean","Complete",1,0
+"bench_Penguins_clean","Complete+cut",1,0
+"bench_Penguins_clean","PAM",1,0
+"bench_Penguins_clean","HDBSCAN",1,0
+"bench_Penguins_clean","w/o Step 1 (triangle)",1,0
+"bench_Penguins_clean","w/o Step 2 (MADn bounds)",1,0
+"bench_Penguins_clean","w/o Step 3 (trimming)",1,0
+"bench_Penguins_clean","w/o Step 4 (cut)",1,0
+"bench_Lsun3D_mixed","R-UPGMA",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","W-UPGMA",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","UPGMA",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","UPGMA+cut",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","Single",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","Complete",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","Complete+cut",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","PAM",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","HDBSCAN",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","w/o Step 1 (triangle)",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","w/o Step 2 (MADn bounds)",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","w/o Step 3 (trimming)",1,1.3469830877677e-16
+"bench_Lsun3D_mixed","w/o Step 4 (cut)",1,1.3469830877677e-16
